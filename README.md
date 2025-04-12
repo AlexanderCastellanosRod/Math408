@@ -49,7 +49,7 @@ We are using the [Mobiles Dataset](https://www.kaggle.com/datasets/abdulmalik151
 
 ## Hosting & Deployment
 Our final deliverables and dashboard will be hosted on this GitHub Pages site:  
-🔗 [Project Site URL](https://yourusername.github.io/mobile-dataset-project)
+🔗 [Project Site URL](https://alexandercastellanosrod.github.io/Math408/)
 
 ## Challenges
 - Handling missing values and ensuring data quality
